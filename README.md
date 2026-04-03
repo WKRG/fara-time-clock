@@ -2,3 +2,5 @@
 Employee time clock
 REACT_APP_SUPABASE_URL
 https://gbwirxwapmkvziucoysh.supabase.co
+REACT_APP_SUPABASE_KEY
+sb_publishable_aVx3qUNe8IJ7ZwzetMWxKw_qgxE0VNS
